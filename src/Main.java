@@ -14,7 +14,11 @@ public class Main {
         System.out.println(gregoryGoyl);
         haryPotter.compareStudent(ronUizly);
         Hogwarts.compareStudent(haryPotter,dragoMalfoy );
-
-
+        System.out.println();
+        zahariaSmith.compareStudent(sedrikDiggory);
+        Hogwarts.compareStudent(zahariaSmith,ronUizly);
+        System.out.println();
+        dragoMalfoy.compareStudent(gregoryGoyl);
+        Hogwarts.compareStudent(dragoMalfoy,ronUizly);
     }
 }
